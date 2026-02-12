@@ -72,10 +72,11 @@ I enjoy solving coding problems and building projects that combine **security, A
 # 💻 Coding Profiles
 
 <p align="center">
-<a href="https://leetcode.com/">
+<a href="https://leetcode.com/u/Pravalika_bitla28/">
   <img src="https://skillicons.dev/icons?i=leetcode" />
 </a>
-<a href="https://www.geeksforgeeks.org/">
+
+<a href="https://www.geeksforgeeks.org/profile/23951amcl0">
   <img src="https://skillicons.dev/icons?i=cpp" />
 </a>
 </p>
