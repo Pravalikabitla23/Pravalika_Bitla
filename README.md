@@ -101,14 +101,17 @@ I enjoy solving coding problems and building projects that combine **security, A
 
 <p align="center">
 <a href="mailto:pravalikabitla728@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" />
+  <img src="https://skillicons.dev/icons?i=gmail" height="60"/>
 </a>
 
-<a href="https://www.linkedin.com/">
-  <img src="https://skillicons.dev/icons?i=linkedin" />
+<a href="https://www.linkedin.com/in/pravalika-bitla" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="60"/>
 </a>
 </p>
 
+<p align="center">
+⭐ From Pravalika Bitla
+</p>
 <p align="center">
 ⭐ From Pravalika Bitla
 </p>
