@@ -71,11 +71,15 @@ I enjoy solving coding problems and building projects that combine **security, A
 
 # 💻 Coding Profiles
 
+### 🟠 LeetCode
 <p align="center">
 <a href="https://leetcode.com/u/Pravalika_bitla28/">
   <img src="https://skillicons.dev/icons?i=leetcode" />
 </a>
+</p>
 
+### 🟢 GeeksforGeeks
+<p align="center">
 <a href="https://www.geeksforgeeks.org/profile/23951amcl0">
   <img src="https://skillicons.dev/icons?i=cpp" />
 </a>
