@@ -73,15 +73,25 @@ I enjoy solving coding problems and building projects that combine **security, A
 
 ### 🟠 LeetCode
 <p align="center">
+<a href="https://leetcode.com/u/Pravalika_bitla28/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=leetcode" height="60"/>
+</a>
+<br>
 <a href="https://leetcode.com/u/Pravalika_bitla28/">
-  <img src="https://skillicons.dev/icons?i=leetcode" />
+<b>Visit my LeetCode Profile</b>
 </a>
 </p>
 
+---
+
 ### 🟢 GeeksforGeeks
 <p align="center">
+<a href="https://www.geeksforgeeks.org/profile/23951amcl0" target="_blank">
+  <img src="https://skillicons.dev/icons?i=cpp" height="60"/>
+</a>
+<br>
 <a href="https://www.geeksforgeeks.org/profile/23951amcl0">
-  <img src="https://skillicons.dev/icons?i=cpp" />
+<b>Visit my GeeksforGeeks Profile</b>
 </a>
 </p>
 
