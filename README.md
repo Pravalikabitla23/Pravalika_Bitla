@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/CSE%20Cybersecurity%20Student-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/CGPA-8.95-brightgreen?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CGPA-8.96-brightgreen?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Cybersecurity%20Learner-red?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Open%20to-Internships-success?style=for-the-badge"/>
 </p>
