@@ -1,4 +1,7 @@
-<h1 align="center">Hi there, I'm Pravalika Bitla 👋</h1>
+<h1 align="center">
+  Hi there, I'm Pravalika Bitla 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Cybersecurity+Enthusiast;Ethical+Hacker+in+Progress;AI+%26+Security+Learner;Open+to+Internships&center=true&width=500&height=45">
