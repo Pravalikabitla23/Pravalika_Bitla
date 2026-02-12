@@ -112,6 +112,4 @@ I enjoy solving coding problems and building projects that combine **security, A
 <p align="center">
 ⭐ From Pravalika Bitla
 </p>
-<p align="center">
-⭐ From Pravalika Bitla
-</p>
+
