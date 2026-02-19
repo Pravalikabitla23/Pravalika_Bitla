@@ -130,6 +130,7 @@ I enjoy solving coding problems and building projects that combine **security, A
 ## String
 |  |
 | ------- |
+| [0696-count-binary-substrings](https://github.com/Pravalikabitla23/Pravalika_Bitla/tree/master/0696-count-binary-substrings) |
 | [3713-longest-balanced-substring-i](https://github.com/Pravalikabitla23/Pravalika_Bitla/tree/master/3713-longest-balanced-substring-i) |
 ## Counting
 |  |
@@ -139,4 +140,8 @@ I enjoy solving coding problems and building projects that combine **security, A
 |  |
 | ------- |
 | [3713-longest-balanced-substring-i](https://github.com/Pravalikabitla23/Pravalika_Bitla/tree/master/3713-longest-balanced-substring-i) |
+## Two Pointers
+|  |
+| ------- |
+| [0696-count-binary-substrings](https://github.com/Pravalikabitla23/Pravalika_Bitla/tree/master/0696-count-binary-substrings) |
 <!---LeetCode Topics End-->
