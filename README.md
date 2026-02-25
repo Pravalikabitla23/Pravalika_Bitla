@@ -121,27 +121,3 @@ I enjoy solving coding problems and building projects that combine **security, A
 </p>
 
 
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Hash Table
-|  |
-| ------- |
-| [3713-longest-balanced-substring-i](https://github.com/Pravalikabitla23/Pravalika_Bitla/tree/master/3713-longest-balanced-substring-i) |
-## String
-|  |
-| ------- |
-| [0696-count-binary-substrings](https://github.com/Pravalikabitla23/Pravalika_Bitla/tree/master/0696-count-binary-substrings) |
-| [3713-longest-balanced-substring-i](https://github.com/Pravalikabitla23/Pravalika_Bitla/tree/master/3713-longest-balanced-substring-i) |
-## Counting
-|  |
-| ------- |
-| [3713-longest-balanced-substring-i](https://github.com/Pravalikabitla23/Pravalika_Bitla/tree/master/3713-longest-balanced-substring-i) |
-## Enumeration
-|  |
-| ------- |
-| [3713-longest-balanced-substring-i](https://github.com/Pravalikabitla23/Pravalika_Bitla/tree/master/3713-longest-balanced-substring-i) |
-## Two Pointers
-|  |
-| ------- |
-| [0696-count-binary-substrings](https://github.com/Pravalikabitla23/Pravalika_Bitla/tree/master/0696-count-binary-substrings) |
-<!---LeetCode Topics End-->
