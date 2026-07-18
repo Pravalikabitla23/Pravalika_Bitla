@@ -128,4 +128,12 @@ I enjoy solving coding problems and building projects that combine **security, A
 |  |
 | ------- |
 | [0077-combinations](https://github.com/Pravalikabitla23/Pravalika_Bitla/tree/master/0077-combinations) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Pravalikabitla23/Pravalika_Bitla/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Pravalikabitla23/Pravalika_Bitla/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
